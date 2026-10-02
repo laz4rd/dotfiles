@@ -1,0 +1,18 @@
+# Claude-inspired warm dark theme
+background = #101010
+foreground = #D4D2CC
+cursor-color = #D97757
+selection-background = #4A4540
+selection-foreground = #F3F1EC
+
+palette = 0=#101010
+palette = 1=#D97757
+palette = 2=#A3B18A
+palette = 3=#D6B36A
+palette = 4=#EE8D6D
+palette = 5=#B39ACB
+palette = 6=#8FB9B2
+palette = 7=#D4D2CC
+palette = 8=#6D6964
+palette = 9=#EE8D6D
+palette = 15=#F3F1EC
