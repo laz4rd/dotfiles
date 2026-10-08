@@ -1,0 +1,52 @@
+# =========================
+# Ghostty Configuration
+# =========================
+
+# Theme
+config-file = ?auto/theme.ghostty
+#theme=sugarplum
+#theme=claudeMD
+# Font
+font-family = JetBrainsMono Nerd Font
+#font-family = UbuntuMono Nerd Font Mono
+font-size = 12
+
+# Window
+window-padding-x = 14
+window-padding-y = 14
+
+background-opacity = 0.8
+background-blur = 20
+
+# Cursor
+cursor-style = block
+cursor-style-blink = true
+
+# Window Decorations
+macos-titlebar-style = hidden
+window-save-state = always
+
+# Scrolling
+scrollback-limit = 100000
+
+
+# Mouse
+mouse-hide-while-typing = true
+
+# Padding + Clean Feel
+window-theme = auto
+
+
+# Custom Shaders
+# custom-shader = ~/.config/ghostty-shaders/Dotted/cursor_frozen.glsl
+custom-shader = ~/.config/ghostty-shaders/Dotted/cursor_green.glsl
+custom-shader = ~/.config/ghostty-shaders/mnoise.glsl
+#custom-shader = ~/.config/ghostty-shaders/zoom_and_aberration.glsl
+#custom-shader = ~/.config/ghostty-shaders/gears-and-belts.glsl
+#custom-shader = ~/.config/ghostty-shaders/aurora-curtains-plus.glsl
+#background-image = ~/Documents/Kaju Open Source/Designs/blank.png
+#background-opacity = 0.5
+
+#macos-icon=blueprint
+#macos-icon-frame=xray
+
